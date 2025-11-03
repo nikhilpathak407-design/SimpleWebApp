@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Makesure Every Practice the CICD Project and Jenkins too</h1>
+         <h1> I will be a devops enginner in a new organisation with a very good package by January 2026</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
